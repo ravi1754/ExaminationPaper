@@ -1,1 +1,2 @@
 # ExaminationPaper
+Project to generate a simulated test paper. The generated test paper has to satisfy certain criteria that include constraints on the format of the paper (total number of questions in the test paper, maximum time required to solve the paper, questions breakup per subject/chapter, and any other constraints you feel may be meaningful), as well as constraints on the questions being selected (avg. time required to solve the question, difficulty level of the question, question to chapter/concept mapping, and any other constraints you feel may be meaningful). 
