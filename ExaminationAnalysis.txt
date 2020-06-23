@@ -1,0 +1,8 @@
+Difficulty Level of the Examination:6.0
+Difficulty Level of the Mathematics Questions:6.233333333333333
+Difficulty Level of the Physics Questions:5.966666666666667
+Difficulty Level of the Chemistry Questions:5.8
+Total estimated time for the Examination:199.95 minutes 
+Estimated time for the Mathematics Questions:66.06666666666666 minutes
+Estimated time for the Physics Questions:69.36666666666666 minutes
+Estimated time for the Chemistry Questions:64.51666666666667 minutes
